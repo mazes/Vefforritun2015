@@ -1,0 +1,60 @@
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\obj\Debug\NewsApplication.csprojResolveAssemblyReference.cache
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\NewsApplication.dll.config
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\NewsApplication.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\NewsApplication.pdb
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\Antlr3.Runtime.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\Newtonsoft.Json.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Helpers.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Mvc.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Optimization.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Razor.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\WebGrease.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Helpers.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Mvc.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Optimization.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Razor.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\Antlr3.Runtime.pdb
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\bin\Newtonsoft.Json.xml
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\obj\Debug\NewsApplication.dll
+C:\Users\EirikurBirkir\Dropbox\HR TF\Vefforritun\Vefforritun2015\NewsApplication\NewsApplication\obj\Debug\NewsApplication.pdb
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\NewsApplication.dll.config
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\NewsApplication.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\NewsApplication.pdb
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\Antlr3.Runtime.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\Newtonsoft.Json.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Helpers.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Mvc.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Optimization.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Razor.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\WebGrease.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Helpers.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Mvc.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Optimization.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.Razor.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\Antlr3.Runtime.pdb
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\bin\Newtonsoft.Json.xml
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\obj\Debug\NewsApplication.csprojResolveAssemblyReference.cache
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\obj\Debug\NewsApplication.dll
+C:\Users\Ragnar\Documents\GitHub\Vefforritun2015\NewsApplication\NewsApplication\obj\Debug\NewsApplication.pdb
