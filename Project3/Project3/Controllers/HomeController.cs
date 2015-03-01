@@ -4,7 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 
-namespace Project3.Controllers
+namespace NewsApplication.Controllers
 {
     public class HomeController : Controller
     {
@@ -13,6 +13,10 @@ namespace Project3.Controllers
             return View();
         }
 
+        public ActionResult Create()
+        {
+            return View();
+        }
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";

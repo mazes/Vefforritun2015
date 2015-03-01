@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project3", "Project3\Project3.csproj", "{2BBFCABB-25EA-44E3-B6AF-6E4A88890C7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewsApplication", "Project3\NewsApplication.csproj", "{2BBFCABB-25EA-44E3-B6AF-6E4A88890C7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

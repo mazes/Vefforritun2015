@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.Routing;
 
-namespace Project3
+namespace NewsApplication
 {
     public class RouteConfig
     {
