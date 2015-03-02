@@ -4,10 +4,12 @@
 
         @foreach(var item in Model)
         {
-           <jumbotron class="active">
-               <h2>@item.title</h2>
+           <div>
+               <div>
+              <h2>@item.title</h2>
+               @item.newsItemAdded
+               </div>
                <p>@item.newsItem</p>
-               <div style="float: right;">@item.newsItemAdded</div>
-
-           </jumbotron>
+               
+           </div>
         }

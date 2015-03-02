@@ -17,10 +17,10 @@ namespace NewsApplication.Controllers
             return View(Model);
         }
 
-        public ActionResult Create()
+        /*public ActionResult Create()
         {
             return View();
-        }
+        }*/
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
@@ -34,5 +34,18 @@ namespace NewsApplication.Controllers
 
             return View();
         }
+
+       [HttpGet]
+        public ActionResult Create()
+        {
+            News model = new News();
+            return View(model);
+        }
+        
+       [HttpPost]
+       public ActionResult Create(News s)
+       {
+           return View();
+       }
     }
 }
