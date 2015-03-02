@@ -1,0 +1,11 @@
+﻿h2
+{
+    text-decoration-color: #185170;
+
+}
+
+h2:hover
+{
+        text-shadow: 2px 2px #3D3C4F;
+        font-size: 120%;
+}

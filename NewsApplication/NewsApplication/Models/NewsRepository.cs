@@ -17,5 +17,7 @@ namespace NewsApplication.Models
 
             return result;
         }
+
+
     }
 }

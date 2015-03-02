@@ -1,15 +1,19 @@
 ﻿@model IEnumerable<NewsApplication.Models.News>
 
 <h1>Latest News</h1>
-
+<div class="line-separator"></div>
         @foreach(var item in Model)
         {
            <div>
-               <div>
+               <div class="floatleftheader">
               <h2>@item.title</h2>
-               @item.newsItemAdded
                </div>
+               <div class="floatright">
+                   <p>@item.newsItemAdded</p>
+               </div>
+               <div class="clearfornewsbody">
                <p>@item.newsItem</p>
-               
+               </div> 
+               <div class="line-separator"></div>  
            </div>
         }
